@@ -1,0 +1,21 @@
+div {
+	height: 100px;
+	padding: 20px 20px;
+
+  }
+
+  #uno {
+    background: yellow;
+    padding: 0px 20px;
+
+  }
+
+  #dos
+  {
+  	background: red;
+  	padding: 0 20px;
+  }
+  #tres {
+  	background: yellow;
+  	padding: 0 20px;
+  }
